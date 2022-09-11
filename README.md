@@ -1,1 +1,1 @@
-Project Hosted on Netlify : https://react-crypto-currency-tracker-app.netlify.app/
+Project Hosted on Netlify : https://reactjs-crypto-tracker-project.netlify.app/
